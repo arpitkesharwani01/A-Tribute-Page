@@ -1,0 +1,21 @@
+#full{
+    background-color: rgb(117, 169, 155);
+    margin: 0% 20%;
+}
+
+#heading{
+    /* background-color: rgb(120, 120, 182); */
+    text-align: center;
+    
+}
+#small{
+    color: rgba(63, 89, 79, 0.972);
+}
+#tribute{
+    background-color: rgba(98, 118, 178, 0.779);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+}
